@@ -460,7 +460,7 @@ textarea::placeholder {
   height: 15px;
   border: 2px solid black;
   border-radius: 4px;
-  background-image: url(./img/svg/iconcheck.svg);
+  background-image: url(../img/svg/iconcheck.svg);
   background-size: contain;
 }
 
